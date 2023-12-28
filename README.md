@@ -1,6 +1,6 @@
 # JSGame-Piano_Music
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F796855727813273450%2F&psig=AOvVaw1FEe_l8RpThIune1VANSGC&ust=1703880247755000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjTmNr2soMDFQAAAAAdAAAAABAD
+![kulfoncozciebiewyrosnie](https://github.com/RPTecDev/JSGame-piano-music/assets/114440054/9be074e2-4ac4-4e05-a9f7-f88f511537b9)
 
 Chegou a sua hora de testar esse jogo que simula as teclas de um piano.
 Usando html, css e javascript... o resultado é bem interessante.
